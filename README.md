@@ -8,7 +8,7 @@ run sudo apt update
 run sudo apt install default-jdk
 run sudo apt install default-jre
 
-/this will allow you to run java based applications as well as developing and programming with java./
+\*this will allow you to run java based applications as well as developing and programming with java.\*
 
 ### java.util.Random
 
